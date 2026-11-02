@@ -1,0 +1,16 @@
+{
+    // The IntelliSense dropdown (list of names as you type, and after  .  ::  ->)
+    // is left ON. It only lists things that exist; it never writes code for you.
+
+    // Only suggest real C++ names, not random words from elsewhere in your file
+    "editor.wordBasedSuggestions": "off",
+
+    // Stop grey "ghost text" that finishes your line for you
+    "editor.inlineSuggest.enabled": false,
+
+    // Stop the pop-up that shows a function's arguments as you type them
+    "editor.parameterHints.enabled": false,
+
+    // Turn off VS Code's built-in AI features (Copilot chat and completions)
+    "chat.disableAIFeatures": true
+}
